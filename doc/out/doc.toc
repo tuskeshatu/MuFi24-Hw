@@ -1,0 +1,4 @@
+\select@language {hungarian} \contentsline {subsubsection}{Állapotváltozók definiálása}{4}{section*.12}%
+\select@language {hungarian} \contentsline {subsubsection}{Forrás feszültségének meghatározása}{4}{section*.13}%
+\select@language {hungarian} \contentsline {subsubsection}{Differenciálegyenletek felírása}{5}{section*.14}%
+\select@language {hungarian} \contentsline {subsubsection}{Egyenletek felírása minden létrafokra}{6}{section*.15}%
