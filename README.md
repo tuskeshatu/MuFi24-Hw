@@ -1,4 +1,4 @@
-#Házi feladat megoldás a "Műszaki és fizikai problémák számítógépes megoldása" (BMETE11AF41 2024/25/1) tárgyhoz.
+# Házi feladat megoldás a "Műszaki és fizikai problémák számítógépes megoldása" (BMETE11AF41 2024/25/1) tárgyhoz.
 
 A repository a "Problem 8. - N elemű lánckapcsolás" című feladat megoldását tartalmazza.
 
